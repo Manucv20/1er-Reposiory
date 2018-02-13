@@ -8,7 +8,7 @@
 <body>
 <h1 style="color:Blue;">Hello World</h1>
 <h2 style="color:Red;">Hello People</h2>
-<p style="background-color:Tomato">THIS IS A TEST OF TOMATO BACKGROUND COLOR </p>
+<p style="background-color:Orange">THIS IS A TEST OF TOMATO BACKGROUND COLOR </p>
 </body>
 </html>
 
